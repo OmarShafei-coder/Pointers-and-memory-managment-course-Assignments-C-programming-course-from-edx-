@@ -1,2 +1,4 @@
 # Pointers-and-memory-managment-course-Assignments-C-programming-course-from-edx-
-Assignments solution for edx course in C programming; pointers and memory management
+
+Every Assignment contains a C file.
+the problem of the assignment is at the top of the solution.
